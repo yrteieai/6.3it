@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\6.3_it(1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43FAA264-3DA9-4109-9786-33998DFCBB3C}|6.3_it(1)\\6.3_it(1).vcxproj|C:\\Users\\USER\\source\\repos\\6.3_it(1)\\6.3_it(1)\\6.3_it(1).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{43FAA264-3DA9-4109-9786-33998DFCBB3C}|6.3_it(1)\\6.3_it(1).vcxproj|solutionrelative:6.3_it(1)\\6.3_it(1).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32705156-279E-421C-9922-8CF0CEB4D7C1}|6.3_it(2)\\6.3_it(2).vcxproj|C:\\Users\\USER\\source\\repos\\6.3_it(1)\\6.3_it(2)\\6.3_it(2).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32705156-279E-421C-9922-8CF0CEB4D7C1}|6.3_it(2)\\6.3_it(2).vcxproj|solutionrelative:6.3_it(2)\\6.3_it(2).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E96838-1DCA-4071-A177-8C87736B4410}|UnitTest_6.3_it_(1)\\UnitTest_6.3_it_(1).vcxproj|C:\\Users\\USER\\source\\repos\\6.3_it(1)\\UnitTest_6.3_it_(1)\\UnitTest_6.3_it_(1).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89E96838-1DCA-4071-A177-8C87736B4410}|UnitTest_6.3_it_(1)\\UnitTest_6.3_it_(1).vcxproj|solutionrelative:UnitTest_6.3_it_(1)\\UnitTest_6.3_it_(1).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F49E0F-0725-4AB8-93AB-487434704D68}|UnitTest_6.3_it(2)\\UnitTest_6.3_it(2).vcxproj|C:\\Users\\USER\\source\\repos\\6.3_it(1)\\UnitTest_6.3_it(2)\\UnitTest_6.3_it(2).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4F49E0F-0725-4AB8-93AB-487434704D68}|UnitTest_6.3_it(2)\\UnitTest_6.3_it(2).vcxproj|solutionrelative:UnitTest_6.3_it(2)\\UnitTest_6.3_it(2).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest_6.3_it(2).cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\6.3_it(1)\\UnitTest_6.3_it(2)\\UnitTest_6.3_it(2).cpp",
+              "RelativeDocumentMoniker": "UnitTest_6.3_it(2)\\UnitTest_6.3_it(2).cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\6.3_it(1)\\UnitTest_6.3_it(2)\\UnitTest_6.3_it(2).cpp",
+              "RelativeToolTip": "UnitTest_6.3_it(2)\\UnitTest_6.3_it(2).cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T17:29:34.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "6.3_it(2).cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\6.3_it(1)\\6.3_it(2)\\6.3_it(2).cpp",
+              "RelativeDocumentMoniker": "6.3_it(2)\\6.3_it(2).cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\6.3_it(1)\\6.3_it(2)\\6.3_it(2).cpp",
+              "RelativeToolTip": "6.3_it(2)\\6.3_it(2).cpp",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T17:28:17.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest_6.3_it_(1).cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\6.3_it(1)\\UnitTest_6.3_it_(1)\\UnitTest_6.3_it_(1).cpp",
+              "RelativeDocumentMoniker": "UnitTest_6.3_it_(1)\\UnitTest_6.3_it_(1).cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\6.3_it(1)\\UnitTest_6.3_it_(1)\\UnitTest_6.3_it_(1).cpp",
+              "RelativeToolTip": "UnitTest_6.3_it_(1)\\UnitTest_6.3_it_(1).cpp",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T17:26:52.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "6.3_it(1).cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\6.3_it(1)\\6.3_it(1)\\6.3_it(1).cpp",
+              "RelativeDocumentMoniker": "6.3_it(1)\\6.3_it(1).cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\6.3_it(1)\\6.3_it(1)\\6.3_it(1).cpp",
+              "RelativeToolTip": "6.3_it(1)\\6.3_it(1).cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T17:23:27.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
